@@ -1,8 +1,17 @@
 <h1 align="center">Hi, I'm Reed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-Stack+Web+Developer" /></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=2596be&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-Stack+Web+Developer" /></a>
 </p>
 
 <p><img align="right" src="programmingAnimation.gif" alt="programming animation" /></p>
+
+<!-- - 🔭 I’m currently working on ... -->
+- 🌱 I’m currently learning more about the backend
+- 👯 I’m looking to collaborate on any exciting projects
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 💬 Ask me about: -->
+- 📫 How to reach me: reedbyford@gmail.com
+<!-- - 😄 Pronouns: He/Him -->
+- ⚡ Fun fact: I'm a pizza snob that loves to travel and knows German
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,18 +38,3 @@
 
 ![snake gif](https://github.com/reedbyford/reedbyford/blob/output/github-contribution-grid-snake.svg)
 
-
-<!--
-**reedbyford/reedbyford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
