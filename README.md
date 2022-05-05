@@ -36,5 +36,5 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Express" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:10px;" />
 
-![snake gif](https://github.com/reedbyford/reedbyford/blob/output/github-contribution-grid-snake.svg)
+<p align="center">![snake gif](https://github.com/reedbyford/reedbyford/blob/output/github-contribution-grid-snake.svg)</p>
 
