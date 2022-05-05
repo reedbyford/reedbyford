@@ -4,7 +4,7 @@
 
 <br>
 
-<p><iframe src="https://embed.lottiefiles.com/animation/31675"></iframe></p>
+<iframe src="https://embed.lottiefiles.com/animation/31675"></iframe>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
