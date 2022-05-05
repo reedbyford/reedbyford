@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" /></p>
+  <img src="https://github.com/reedbyford/reedbyford/blob/output/github-contribution-grid-snake.svg" /></p>
 </p>
 
 <br>
