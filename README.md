@@ -16,7 +16,7 @@
       alt="adampithewan" height="30" width="40" /></a>
 </p>
 
-![snake gif](https://github.com/reedbyford/reedbyford/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/reedbyford/reedbyford/blob/output/github-contribution-grid-snake.svg)
 
 <br>
 
