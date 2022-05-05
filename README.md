@@ -4,7 +4,7 @@
 
 <br>
 
-<lottie-player src="https://assets2.lottiefiles.com/packages/lf20_dl87KC.json"  align="right" background="transparent"  speed="0.75"  style="width: 300px; height: 300px;"  loop controls autoplay></lottie-player>
+<p><img align="right" src="programmingAnimation.gif" alt="programmer animation" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
