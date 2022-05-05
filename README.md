@@ -4,7 +4,7 @@
 
 <br>
 
-<p><img align="right" src="programmingAnimation.gif" alt="programmer animation" /></p>
+<p><iframe src="https://embed.lottiefiles.com/animation/31675"></iframe></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
