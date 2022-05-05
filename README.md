@@ -1,11 +1,12 @@
 <h1 align="center">Hi, I'm Reed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=2bfd5e&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-Stack+Web+Developer" /></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=67fb8b&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-Stack+Web+Developer" /></a>
 </p>
 
 <p><img align="right" src="programmingAnimation.gif" alt="programming animation" /></p>
 
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning more about the backend
+
 - 👯 I’m looking to collaborate on any exciting projects
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about: -->
@@ -18,9 +19,10 @@
   <a href="https://www.linkedin.com/in/reedbyford/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
- <a href="https://twitter.com/ReedByford" target="blank"><img align="center"
+  <a href="https://twitter.com/ReedByford" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="adampithewan" height="30" width="40" /></a>
+  <a href = 'http://aditya664.me/'> <img width ="40" height="30" align= 'center'                                        src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 </p>
 
 <br>
