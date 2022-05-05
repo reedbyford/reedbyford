@@ -4,7 +4,7 @@
 
 <br>
 
-<p><img align="right" src="https://lottiefiles.com/31675-programming" alt="adam-pw" /></p>
+<p><img align="right" src="https://assets6.lottiefiles.com/packages/lf20_dl87KC.json" alt="" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
