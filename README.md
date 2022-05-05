@@ -4,7 +4,7 @@
 
 <br>
 
-<iframe src="https://embed.lottiefiles.com/animation/31675"></iframe>
+<p><img align="right" src="https://lottiefiles.com/31675-programming" alt="adam-pw" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
