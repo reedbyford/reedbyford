@@ -4,7 +4,6 @@
 
 <br>
 
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
 <lottie-player src="https://assets2.lottiefiles.com/packages/lf20_dl87KC.json"  align="right" background="transparent"  speed="0.75"  style="width: 300px; height: 300px;"  loop controls autoplay></lottie-player>
 
 <h3 align="left">Connect with me:</h3>
