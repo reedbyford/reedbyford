@@ -16,8 +16,6 @@
       alt="adampithewan" height="30" width="40" /></a>
 </p>
 
-![snake gif](https://github.com/reedbyford/reedbyford/blob/output/github-contribution-grid-snake.svg)
-
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -61,6 +59,10 @@
       alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
       height="40" /> </a> </p>
+
+![snake gif](https://github.com/reedbyford/reedbyford/blob/output/github-contribution-grid-snake.svg)
+
+
 <!--
 **reedbyford/reedbyford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
