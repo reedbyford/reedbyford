@@ -1,5 +1,5 @@
-<img src="github-header-image.png" width="35">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=67fb8b&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-Stack+Web+Developer;Learning+new+things+every+day;With+strong+communication+skills;And+great+teamwork+skills"/></a>
+<img src="github-header-image.png">
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=84D5FF&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-Stack+Web+Developer;Learning+new+things+every+day;With+strong+communication+skills;And+great+teamwork+skills"/></a>
 </p>
 
 - 🌱 I’m currently learning **MongoDB**
