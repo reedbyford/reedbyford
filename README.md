@@ -2,7 +2,7 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=84D5FF&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-Stack+Web+Developer;Learning+new+things+every+day;With+strong+communication+skills;And+great+teamwork+skills"/></a>
 </p>
 
-- 🌱 I’m currently learning **MongoDB**
+- 🌱 I’m currently learning **more about the backend**
 
 - 👯 I’m looking to collaborate on **any projects looking for help!**
 
