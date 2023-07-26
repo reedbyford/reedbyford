@@ -1,5 +1,5 @@
 <img src="github-header-image.png">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=84D5FF&size=25&lines=Welcome+to+my+GitHub+Profile!;My+primary+tech+stack+is+Java+Spring-Boot+& +SQL"/></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=84D5FF&size=25&lines=Welcome+to+my+GitHub+Profile!;My+primary+tech+stack+is+Java+Spring-Boot+and+SQL"/></a>
 </p>
 
 - 🌱 I’m currently learning **more about spring-boot**
