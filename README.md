@@ -1,10 +1,10 @@
 <img src="github-header-image.png">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=84D5FF&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-Stack+Web+Developer;Learning+new+things+every+day;With+strong+communication+skills;And+great+teamwork+skills"/></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=84D5FF&size=25&lines=Welcome+to+my+GitHub+Profile!;My+primary+tech+stack+is+Java+Spring-Boot+& +SQL"/></a>
 </p>
 
-- 🌱 I’m currently learning **more about the backend**
+- 🌱 I’m currently learning **more about spring-boot**
 
-- 👯 I’m looking to collaborate on **any projects looking for help!**
+- 👯 Currently collaborating on **an event management application**
 
 - 📫 How to reach me **reedbyford@gmail.com**
 
